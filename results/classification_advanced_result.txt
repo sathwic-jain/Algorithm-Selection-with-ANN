@@ -1,0 +1,16 @@
+
+Final results: loss: 9544.2603, 	accuracy: 0.0000, 	avg_cost: 13882.9098, 	sbs_cost: 8690.0127, 	vbs_cost: 4001.6335, 	sbs_vbs_gap: 2.1076
+
+Final results: loss: 9544.2603, 	accuracy: 0.0000, 	avg_cost: 13882.9098, 	sbs_cost: 8690.0127, 	vbs_cost: 4001.6335, 	sbs_vbs_gap: 2.1076
+
+Final results: loss: 9544.2603, 	accuracy: 0.0000, 	avg_cost: 13882.9098, 	sbs_cost: 8690.0127, 	vbs_cost: 4001.6335, 	sbs_vbs_gap: 2.1076
+
+Final results: loss: 9544.2603, 	accuracy: 0.0000, 	avg_cost: 13882.9098, 	sbs_cost: 8690.0127, 	vbs_cost: 4001.6335, 	sbs_vbs_gap: 2.1076
+
+Final results: loss: 9544.2603, 	accuracy: 0.0000, 	avg_cost: 13882.9098, 	sbs_cost: 8690.0127, 	vbs_cost: 4001.6335, 	sbs_vbs_gap: 2.1076
+
+Final results: loss: 9544.2603, 	accuracy: 0.0000, 	avg_cost: 13882.9098, 	sbs_cost: 8690.0127, 	vbs_cost: 4001.6335, 	sbs_vbs_gap: 2.1076
+
+Final results: loss: 1641.8295, 	accuracy: 0.0151, 	avg_cost: 14860.7043, 	sbs_cost: 8690.0127, 	vbs_cost: 4001.6335, 	sbs_vbs_gap: 2.3162
+
+Final results: loss: 1755.4205, 	accuracy: 0.0054, 	avg_cost: 15164.2941, 	sbs_cost: 8690.0127, 	vbs_cost: 4001.6335, 	sbs_vbs_gap: 2.3809
